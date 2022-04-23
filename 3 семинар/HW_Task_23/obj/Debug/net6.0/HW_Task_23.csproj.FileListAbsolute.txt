@@ -1,0 +1,15 @@
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\bin\Debug\net6.0\HW_Task_23.exe
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\bin\Debug\net6.0\HW_Task_23.deps.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\bin\Debug\net6.0\HW_Task_23.runtimeconfig.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\bin\Debug\net6.0\HW_Task_23.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\bin\Debug\net6.0\HW_Task_23.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.csproj.AssemblyReference.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.AssemblyInfoInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.AssemblyInfo.cs
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.csproj.CoreCompileInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\refint\HW_Task_23.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\HW_Task_23.genruntimeconfig.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\HW_Task_23\obj\Debug\net6.0\ref\HW_Task_23.dll

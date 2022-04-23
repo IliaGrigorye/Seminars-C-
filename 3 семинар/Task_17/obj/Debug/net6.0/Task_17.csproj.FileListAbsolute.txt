@@ -1,0 +1,15 @@
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\bin\Debug\net6.0\Task_17.exe
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\bin\Debug\net6.0\Task_17.deps.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\bin\Debug\net6.0\Task_17.runtimeconfig.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\bin\Debug\net6.0\Task_17.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\bin\Debug\net6.0\Task_17.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.csproj.AssemblyReference.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.AssemblyInfoInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.AssemblyInfo.cs
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.csproj.CoreCompileInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\refint\Task_17.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\Task_17.genruntimeconfig.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\3 семинар\Task_17\obj\Debug\net6.0\ref\Task_17.dll
