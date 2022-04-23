@@ -1,0 +1,15 @@
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\bin\Debug\net6.0\HW_Task_29.exe
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\bin\Debug\net6.0\HW_Task_29.deps.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\bin\Debug\net6.0\HW_Task_29.runtimeconfig.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\bin\Debug\net6.0\HW_Task_29.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\bin\Debug\net6.0\HW_Task_29.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.csproj.AssemblyReference.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.AssemblyInfoInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.AssemblyInfo.cs
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.csproj.CoreCompileInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\refint\HW_Task_29.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\HW_Task_29.genruntimeconfig.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\4 семинар\HW_Task_29\obj\Debug\net6.0\ref\HW_Task_29.dll
