@@ -7,4 +7,4 @@ int A = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите степень числа A: ");
 int B = Convert.ToInt32(Console.ReadLine());
 
-Console.Write(Math.Pow(A, B));
+Console.Write($"Число {A} в {B}-ой степени = {Math.Pow(A, B)}");
