@@ -4,7 +4,7 @@ int n;
 
 Console.Write("Please, enter positive integer number: ");
 
-while (!int.TryParse(Console.ReadLine(), out n) || n < 0)
+while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
 {
     Console.WriteLine("Wrong inpunt, try again");
     Console.Write("Please, enter positive integer number: ");
