@@ -7,7 +7,7 @@
 Console.Write("Введите длину массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
-// 2. Заполнить его случайными положительными трехзначными числами
+// 2. Заполнить его случайными вещественными числами
 FillArray(array, 1, 99);
 // 3. Вывести массив
 PrintArray(array);
@@ -44,7 +44,7 @@ void PrintQuan(int[] arr)
     int k = 0;
     int max = arr[0];
     int min = arr[0];
-    for(int i = 1; i < array.Length; i++)
+    for(int i = 0; i < array.Length; i++)
     {
         if (arr[i] > max)
         {
