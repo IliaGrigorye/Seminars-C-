@@ -8,7 +8,7 @@
 Console.Write("Введите длину массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[n];
-// 2. Заполнить его случайными положительными трехзначными числами
+// 2. Заполнить его случайными числами
 FillArray(array, -99, 99);
 // 3. Вывести массив
 PrintArray(array);
@@ -43,12 +43,9 @@ void PrintQuan(int[] arr)
 
 {
     int k = 0;
-    for(int i = 0; i < array.Length; i++)
+    for(int i = 1; i < array.Length; i+=2)
     {
-        if (i % 2 != 0 )
-        {
-            k = k + arr[i];
-        }
+        k = k + arr[i];    
     }
     Console.Write(k);
 }
