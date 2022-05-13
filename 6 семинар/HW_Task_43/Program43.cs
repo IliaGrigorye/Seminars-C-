@@ -20,7 +20,7 @@ if((b1 == b2) && (k1 == k2))
     
 if((x == 0) || (y == 0))
 {
-    Console.WriteLine("Две прямые не пересекаються.");
+    Console.WriteLine("Две прямые не пересекаются.");
     Environment.Exit(0);
 }
 
