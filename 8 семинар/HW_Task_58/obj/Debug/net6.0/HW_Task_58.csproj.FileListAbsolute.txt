@@ -1,0 +1,15 @@
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\bin\Debug\net6.0\HW_Task_58.exe
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\bin\Debug\net6.0\HW_Task_58.deps.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\bin\Debug\net6.0\HW_Task_58.runtimeconfig.json
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\bin\Debug\net6.0\HW_Task_58.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\bin\Debug\net6.0\HW_Task_58.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.csproj.AssemblyReference.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.AssemblyInfoInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.AssemblyInfo.cs
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.csproj.CoreCompileInputs.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\refint\HW_Task_58.dll
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.pdb
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\HW_Task_58.genruntimeconfig.cache
+C:\Програмирование\програмирование\Работа в Visual Studio Code\С# семинар\8 семинар\HW_Task_58\obj\Debug\net6.0\ref\HW_Task_58.dll

@@ -49,3 +49,15 @@ void CheckingAvailability(int[,] array, int m, int n)
     Console.WriteLine($"Числа [{m}, {n}] нет в массиве");                
 }
 
+/*
+doble x;
+
+int sum = 25;
+int m = 6;
+
+x = sum / m; x = (double)sum / (double)m;
+
+Console.WriteLine("{0:f}", x)
+
+
+*/
